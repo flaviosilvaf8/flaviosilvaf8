@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fala Dev, Sou estudante de programação!
+Fala Dev, Sou estudante de programação! Cursando Analise e Desenvolvimento de Sistemas
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/flavio-freitas-silva/) 
